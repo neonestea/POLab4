@@ -1,0 +1,9 @@
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.csprojAssemblyReference.cache
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Users\yanko\source\repos\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\yanko\source\repos\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\yanko\source\repos\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\yanko\source\repos\MathGame\MathGame\obj\Debug\MathGame.pdb
